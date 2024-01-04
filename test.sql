@@ -40,8 +40,7 @@ CREATE TABLE `carts` (
 -- Đang đổ dữ liệu cho bảng `carts`
 --
 
-INSERT INTO `carts` (`id`, `name`, `image`, `price`, `quantity`, `color`) VALUES
-(8, 'Nike Renew Ride', 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/1315882/renew-ride-mens-running-shoe-JkhdfR-removebg-preview.png', '60.97', 1, '#B50320');
+
 
 -- --------------------------------------------------------
 
